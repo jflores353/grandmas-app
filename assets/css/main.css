@@ -3806,9 +3806,12 @@ body.is-menu-visible #menu {
 		font-size: 1.25em;
 		margin-top: 10rem;
 	}
-
+	/*
 	#banner br {
 		display: none;
+	} */
+	#banner p {
+		font-size: 0.84em;
 	}
 
 	#banner .more {
